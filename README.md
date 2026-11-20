@@ -1,8 +1,8 @@
 # Smart_Traffic_Controller
-Smart traffic light controller in Verilog: modular timer + Moore FSM with density-based adaptive green time and a latched pedestrian crossing phase. Simulated in QuestaSim.
+Smart traffic light controller in Verilog: modular timer + Moore FSM with density-based adaptive green time and a latched pedestrian crossing phase. Simulated in Model Sim.
 # Smart Traffic Controller (Verilog RTL)
 
-A modular traffic signal controller with adaptive green time and a pedestrian crossing phase, written in synthesizable Verilog and verified in QuestaSim 10.7c.
+A modular traffic signal controller with adaptive green time and a pedestrian crossing phase, written in synthesizable Verilog and verified in Model Sim.
 
 ## Features
 - Moore FSM: GREEN, YELLOW, RED, PEDESTRIAN
